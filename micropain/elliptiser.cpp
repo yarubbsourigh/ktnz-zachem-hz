@@ -365,6 +365,7 @@ int main(int argc, char **argv) {
     printf("Usage:\n");
     printf("$ elliptiser N\n");
     printf("where N is the number of points you're planning to click\n");
+    return 0;
   }
   
   vector<point> *given = new vector<point>;
