@@ -1,3 +1,5 @@
+//compile with -lsfml-graphics -lsfml-window -lsfml-system
+//Enjoy :)
 #include <stdio.h>
 #include <math.h>
 #include<string.h>
